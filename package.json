@@ -1,0 +1,16 @@
+{
+  "name": "api-previewer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "swaggerDocsTemplate.js",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "keywords": [],
+  "author": "Curry",
+  "license": "ISC",
+  "dependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}
