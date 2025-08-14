@@ -17,7 +17,7 @@ npm install
 
 2. 更新最新 OpenAPI JSON 文件
 ```
-touch ./data/batchship.opemapi.json
+touch ./data/batchship.openapi.json
 ```
 
 3. 构建页面：
