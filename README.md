@@ -16,6 +16,9 @@ npm install
 ```
 
 2. 更新最新 OpenAPI JSON 文件
+```
+touch ./data/batchship.opemapi.json
+```
 
 3. 构建页面：
 ```bash
