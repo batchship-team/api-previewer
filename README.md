@@ -25,7 +25,7 @@ touch ./data/batchship.openapi.json
 npm run build
 ```
 
-1. 在浏览器中打开生成的 `index.html` 文件预览文档
+4. 在浏览器中打开生成的 `index.html` 文件预览文档
 
 ## 在线预览
 
